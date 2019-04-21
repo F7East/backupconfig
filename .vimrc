@@ -58,3 +58,5 @@ let &t_SI="\e[6 q"
 let &t_SR="\e[4 q"
 let &t_EI="\e[2 q"
 let g:move_key_modifier = 'C'
+
+"comment for git
