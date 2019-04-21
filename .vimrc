@@ -61,3 +61,4 @@ let g:move_key_modifier = 'C'
 
 "sd
 "comment for git
+"test 2
